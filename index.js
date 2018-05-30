@@ -13,3 +13,4 @@ function increaseRankBy(n){
   }
   return rank;
 }
+
